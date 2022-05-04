@@ -8,7 +8,7 @@ Finished the course from jetBrains Kotlin Basic.
 ## 📖 Plans to study
 * Android SDK
 * SQL
-* Spring
+
 
 <p align='center'>
 <a href="https://t.me/x_DKx">
